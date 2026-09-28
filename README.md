@@ -1,16 +1,19 @@
-## Hi there 👋
+## Brady
 
-<!--
-**JPZ-Brady/JPZ-Brady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc **Advanced Computer Science (Artificial Intelligence)** · University of Leeds · 2026–27
 
-Here are some ideas to get you started:
+I'm a master's student in Leeds, working my way from "it runs" to "I understand why it runs."
+Two tracks right now: the maths and Python behind machine learning, and the habits of writing
+software with other people — branches, pull requests, code review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Python for data and machine learning
+- Deep learning, working through the maths rather than just the libraries
+- Git and collaborative workflow — properly this time
+
+**On this profile**
+- MSc coursework and lab work
+- Small tools I build to make my own studying less tedious
+- Notes worth keeping
+
+**Interested in** applied machine learning · tools that quietly remove busywork
